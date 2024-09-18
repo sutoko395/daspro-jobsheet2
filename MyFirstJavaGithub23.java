@@ -1,4 +1,4 @@
-public class MyFirstJavaGithub23 {
+publich class MyFirstJavaGithub23 {
     public static void main(String[] args) {
         System.out.println("Hello from Github");
     }
